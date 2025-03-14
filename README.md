@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I’m a recent Computer Science graduate passionat
 2. **Portfolio Website**
 
     * _Description_: A responsive and visually engaging portfolio showcasing technical skills, projects, and achievements.
-    * _Technologies_: HTML, CSS, JavaScript, React.
+    * _Technologies_: HTML, CSS, JavaScript.
 
 3. **Enlightened - A Book Store Web Application**
 
