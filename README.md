@@ -18,17 +18,22 @@ Welcome to my GitHub profile! I’m a recent Computer Science graduate passionat
 
 ## 📂 Featured Projects
 
-1. **Pokémon Analysis, Modeling, and Battle Recommender Web App**
+1. **Time Tracking Mobile App**
+
+    * _Description_: A simple and efficient mobile application that allow users to track the time spent on various tasks and projects.
+    * _Technologies_: Flutter, Dart.
+      
+2. **Pokémon Analysis, Modeling, and Battle Recommender Web App**
   
     * _Description_: An in-depth analysis of Pokémon types across diverse metrics, complemented by a classification model designed to accurately predict type combinations. Additionally, a dynamic web application leverages machine learning to provide personalized recommendations for optimal battle strategies tailored to user-selected Pokémon teams.
     *	_Technologies_: Python, Jupyter Notebook, Spreadsheets, HTML, CSS, JavaScript, React, Flask, MongoDB.
 
-2. **Portfolio Website**
+3. **Portfolio Website**
 
     * _Description_: A responsive and visually engaging portfolio showcasing technical skills, projects, and achievements.
     * _Technologies_: HTML, CSS, JavaScript.
 
-3. **Enlightened - A Book Store Web Application**
+4. **Enlightened - A Book Store Web Application**
 
     * _Description_: An online bookstore platform with a catalog, search functionality, and secure checkout.
     * _Technologies_: HTML, CSS, TypeScript, React, Express, MongoDB.
