@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I’m a recent Computer Science graduate passionat
 
 ## 📂 Featured Projects
 
-1. **Time Tracking Mobile App**
+1. **Inventory Management Dashboard**
 
-    * _Description_: A simple and efficient mobile application that allow users to track the time spent on various tasks and projects.
-    * _Technologies_: Flutter, Dart.
+    * _Description_: A scalable inventory management dashboard that streamlines product, inventory, expense, and user management while providing real-time business insights through interactive analytics.
+    * _Technologies_: Next.js, React, TypeScript, Node.js, Express.js, PostgreSQL, Prisma ORM, Redux Toolkit, AWS.
       
 2. **Pokémon Analysis, Modeling, and Battle Recommender Web App**
   
