@@ -4,18 +4,19 @@ Welcome to my GitHub profile! I’m a recent Computer Science graduate passionat
 
 ## 🚀 About Me
 
-* 💻 **Core Skills**: Python, JavaScript, HTML/CSS, R, SQL, and Data Analysis.
-* 🌟 **Projects**: Developed responsive web applications, built data visualization notebooks/dashboards, and completed data science certifications.
-* 📚 **Currently Learning**: Mobile and iOS app development, advanced data analysis techniques, and IT support.
-* 🎯 **Looking For**: Opportunities in Web Development, Data Analysis, or Technical Roles where I can grow and contribute to exciting projects.
+* **Core Skills**: Full-Stack Web Development (React, Next.js, Node.js), Software Engineering (Java), and Data Analytics (Python, SQL, Tableau).
+* **Projects**: Developed scalable business dashboards, interactive web apps, browser-run Java games, and responsive portfolio sites.
+* **Currently Learning**: Mobile and iOS app development, advanced data engineering pipelines, and IT systems support.
+* **Looking For**: Opportunities in Full-Stack Web Development, Software Engineering, or Data Analysis where I can build effective digital solutions.
 
 ## 🛠️ Technologies & Tools
 
-*	**Languages**: Python, JavaScript, HTML/CSS, R, SQL
-*	**Frameworks & Libraries**: Flask, React, Tailwind CSS
-*	**Tools**: Git, MySQL, Tableau, Google BigQuery, RStudio, Jupyter Notebook, Spreadsheets
-*	**Other Skills**: Web design, data visualization, content management, problem-solving, collaboration
-
+*	**Languages**: JavaScript, TypeScript, Java, Python, SQL, HTML/CSS, R
+*	**Frameworks & Libraries**: Next.js, React, Node.js, Express.js, Flask, Tailwind CSS, Prisma ORM, Redux Toolkit, Java Swing/AWT
+*	**Databases & Cloud**: PostgreSQL, MongoDB, MySQL, Google BigQuery, AWS
+*	**Tools**: Git, Tableau, Jupyter Notebook, RStudio, Spreadsheets, CheerpJ
+*	**Other Skills**: Full-stack development, database design, dynamic UI rendering, data visualization
+  
 ## 📂 Featured Projects
 
 1. **Inventory Management Dashboard**
@@ -26,22 +27,22 @@ Welcome to my GitHub profile! I’m a recent Computer Science graduate passionat
 2. **Enlightened - A Book Store Web Application**
 
     * _Description_: An online bookstore platform with a catalog, search functionality, and secure checkout.
-    * _Technologies_: HTML, CSS, TypeScript, React, Express, MongoDB.
+    * _Technologies_: React, TypeScript, Express, MongoDB.
       
-3. **Portfolio Website**
+3. **Rubik's Race - Single Player Edition**
+  
+    * _Description_: A single-player version of the popular board game, Rubik's Race, where the goal is to slide tiles and match the center of a 5x5 grid to the 3x3 target grid as fast as possible. It also features dynamic performance-based scoring, a local top-ten leaderboard, and harder difficulties like larger grids and limited move/time challenges.
+    *	_Technologies_: Java 17, Java Swing / AWT, CheerpJ
+  
+4. **Portfolio Website**
 
     * _Description_: A responsive and visually engaging portfolio showcasing technical skills, projects, and achievements.
     * _Technologies_: HTML, CSS, JavaScript.
-      
-4. **Pokémon Analysis, Modeling, and Battle Recommender Web App**
-  
-    * _Description_: An in-depth analysis of Pokémon types across diverse metrics, complemented by a classification model designed to accurately predict type combinations. Additionally, a dynamic web application leverages machine learning to provide personalized recommendations for optimal battle strategies tailored to user-selected Pokémon teams.
-    *	_Technologies_: Python, Jupyter Notebook, Spreadsheets, HTML, CSS, JavaScript, React, Flask, MongoDB.
 
 ## 🌱 Let’s Connect
 
-*	💼 LinkedIn: <https://www.linkedin.com/in/vinuk-ranaweera-3662a918b/>
-*	🌐 Portfolio Website: <https://www.vinukranaweera.com/>
-*	📧 Email me: <vinukranaweera@gmail.com>
+*	LinkedIn: <https://www.linkedin.com/in/vinuk-ranaweera-3662a918b/>
+*	Portfolio Website: <https://www.vinukranaweera.com/>
+*	Email me: <vinukranaweera@gmail.com>
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate or discuss opportunities. 😊
+Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate or discuss opportunities.
